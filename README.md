@@ -23,6 +23,6 @@
 ___
 
 ### Usage at the STEM fair
-  This visualizer was used to excite young students about computer science by showing them great
+  This visualizer was used to excite young students or newbies about computer science by showing them great
   things you can do with code. The program was given 13 data points, and told to sort it in a very
   slow manner. The children would then race against it with one suit of playing cards.
